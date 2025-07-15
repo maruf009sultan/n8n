@@ -1,7 +1,7 @@
 # 🚀 One-Click Deployable n8n on Docker – Automate Everything with Style!
 
 ![Banner](https://cdn.pixabay.com/photo/2017/05/15/23/47/machine-learning-2749148_1280.jpg)
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maruf009sultan/n8n)
 > 🔧 Powerful. Fast. Beautiful.  
 > **Deploy n8n in seconds with Docker — no setup required.**
 
